@@ -4,6 +4,10 @@ What Is Networking?
 
 Networking is the process of connecting multiple computing devices (e.g. computers, servers, routers, switches, IoT devices) so they can communicate, share resources, and transfer data. This is done using wired (Ethernet) or wireless (Wi-Fi) connections, based on a set of rules called protocols (like TCP/IP).
 
+or
+
+
+
 
 ---
 
